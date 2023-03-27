@@ -22,8 +22,7 @@
 site_name: Tesis de grado
 site_url: https://aidacramirez.github.io/mkdocs-material/
 site_author: Aida Catalina Ramírez Cardozo
-site_description: >-
-  Tesis de maestría Cider - Uniandes
+site_description: >-Tesis de maestría Cider - Uniandes
 
 # Repository
 repo_name: AidaCRamirez/mkdocs-material
